@@ -2,10 +2,14 @@
   "name": "microsoft-challenge",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "10.3.0"
+  },
   "dependencies": {
     "bootstrap": "^4.3.1",
     "c3": "^0.7.0",
     "jquery": "^3.4.1",
+    "node-sass": "^4.12.0",
     "popper.js": "^1.15.0",
     "react": "^16.8.6",
     "react-compound-slider": "^1.2.2",
